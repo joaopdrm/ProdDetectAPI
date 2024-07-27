@@ -1,4 +1,4 @@
-# My Project
+# ProdDetectAPI
 
 Este projeto é uma API simples para servir um modelo de IA em produção.
 
